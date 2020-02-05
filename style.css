@@ -1,0 +1,19 @@
+h1{
+    position:absolute; left: 41%; top: 5%;
+}
+h2{position:absolute; font-size: 19.5px;
+    left: 55%; top: 12.5%;
+
+}
+p{
+    text-indent: 40px;
+    font-family: "Times New Roman", Times, serif;
+    max-width: 500px;
+    margin-top: 155px;
+    margin-left: 510px;
+    margin-bottom: -135px;
+    line-height: 1.5
+
+  }
+
+
